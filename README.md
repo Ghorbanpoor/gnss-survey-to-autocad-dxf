@@ -102,7 +102,7 @@ gnss-survey-to-autocad-dxf/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gnss-survey-to-autocad-dxf.git
+git clone (https://github.com/Ghorbanpoor/gnss-survey-to-autocad-dxf.git)
 ```
 
 Move into the project directory:
